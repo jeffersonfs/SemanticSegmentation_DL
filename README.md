@@ -210,7 +210,7 @@ Some implementation of semantic segmantation for DL model</br>
 + Proposal-free network for instance-level object segmentation [[Paper]](https://arxiv.org/pdf/1509.02636)
 + ECCV-2016 Instance-sensitive Fully Convolutional Networks  [[Paper]](http://arxiv.org/abs/1603.08678)
 + Pixel-level encoding and depth layering for instance-level semantic labeling [[Paper]](https://arxiv.org/pdf/1604.05096)
-
++ SGN: Sequential Grouping Networks for Instance Segmentation [[Paper]](https://www.cs.toronto.edu/~urtasun/publications/liu_etal_iccv17.pdf)
 
 ## Robotics
 - Virtual-to-Real: Learning to Control in Visual Semantic Segmentation [[Paper]](https://arxiv.org/pdf/1802.00285.pdf)
